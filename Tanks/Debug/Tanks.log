@@ -1,0 +1,4 @@
+﻿  Game.cpp
+c:\users\aostr\source\repos\tanks\tanks\game.cpp(15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\aostr\source\repos\tanks\tanks\game.cpp(130): warning C4018: <: несоответствие типов со знаком и без знака
+  Tanks.vcxproj -> C:\Users\aostr\source\repos\Tanks\Debug\Tanks.exe
